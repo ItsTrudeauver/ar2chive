@@ -1,0 +1,654 @@
+/* global.css */
+:root {
+    --primary: #7c3aed;
+    --primary-hover: #6d28d9;
+    --background: #0f0f0f;
+    --surface: #1a1a1a;
+    --border: rgba(255,255,255,0.1);
+    --text-primary: #f5f3ff;
+    --text-secondary: #d1d5db;
+    --success: #10b981;
+    --warning: #f59e0b;
+    --danger: #ef4444;
+    --radius: 8px;
+    --transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+
+body {
+    font-family: 'EB Garamond', serif;
+  background: var(--background);
+  color: var(--text-primary);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+button, input, select {
+  font: inherit;
+  color: inherit;
+  background: none;
+  border: none;
+  outline: none;
+}
+
+/* Enhanced Interactive Elements */
+button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem 1.5rem;
+  border-radius: var(--radius);
+  font-weight: 500;
+  cursor: pointer;
+  transition: var(--transition);
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-primary);
+  gap: 0.5rem;
+}
+
+button:hover:not(:disabled) {
+  background: rgba(255,255,255,0.05);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+button:active:not(:disabled) {
+  transform: translateY(0);
+  transition-duration: 0.1s;
+}
+
+button.selected, button.active {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: white;
+  box-shadow: 0 4px 16px rgba(124,58,237,0.3);
+}
+
+button.primary {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: white;
+}
+
+button.primary:hover {
+  background: var(--primary-hover);
+}
+
+/* Input Fields Modernization */
+input, select {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  padding: 0.75rem 1rem;
+  border-radius: var(--radius);
+  width: 100%;
+  color: var(--text-primary);
+  transition: var(--transition);
+}
+
+input:focus, select:focus {
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px rgba(124,58,237,0.2);
+}
+
+input::placeholder {
+  color: rgba(255,255,255,0.4);
+}
+
+/* Premium Table Design */
+.book-table {
+  background: var(--surface);
+  border-radius: var(--radius);
+  overflow: hidden;
+  border: 1px solid var(--border);
+  margin: 2rem 0;
+}
+
+.book-table-header {
+  background: rgba(255,255,255,0.03);
+  backdrop-filter: blur(8px);
+  padding: 1rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  font-size: 0.85em;
+  letter-spacing: 0.05em;
+}
+
+.book-table-row {
+  padding: 1rem;
+  transition: background 0.2s ease;
+}
+
+.book-table-row:not(:last-child) {
+  border-bottom: 1px solid var(--border);
+}
+
+.book-table-row:hover {
+  background: rgba(255,255,255,0.02);
+}
+
+/* Importance Dots Animation */
+.importance-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  display: inline-block;
+  box-shadow: 0 0 8px currentColor;
+  transition: transform 0.3s ease;
+}
+
+.importance-dot:hover {
+  transform: scale(1.4);
+}
+
+/* Pagination Styling */
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  padding: 2rem 0;
+}
+
+.pagination button {
+  min-width: 100px;
+  padding: 0.5rem 1rem;
+}
+
+.pagination button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: none !important;
+}
+
+/* Range Controls Elegance */
+.range-controls {
+  background: var(--surface);
+  padding: 1.5rem;
+  border-radius: var(--radius);
+  margin: 1rem 0;
+  border: 1px solid var(--border);
+}
+
+.range-controls label {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: var(--text-secondary);
+  font-size: 0.9em;
+}
+
+/* Cultural Period Chips */
+.cultural-periods {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.period-button {
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  background: rgba(255,255,255,0.05);
+  border: 1px solid var(--border);
+  font-size: 0.9em;
+}
+
+.period-button.active {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: white;
+}
+
+/* Importance Legend Sophistication */
+.importance-legend {
+  
+  background: var(--surface);
+  padding: 1rem;
+  border-radius: var(--radius);
+  margin: 1rem 0;
+  border: 1px solid var(--border);
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.importance-legend span {
+
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-size: 0.95em;
+}
+
+/* Search Input Modern */
+.search-container {
+  position: center;
+  max-width: 500;
+  margin: 2rem 0;
+}
+
+.search-input {
+  padding-left: 2.5rem;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%239CA3AF' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='11' cy='11' r='8'/%3E%3Cpath d='M21 21l-4.35-4.35'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: 1rem center;
+  background-size: 1.25rem;
+}
+
+/* Smooth Scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Loading Animation */
+@keyframes pulse {
+  50% { opacity: 0.5; }
+}
+
+.animate-pulse {
+  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+/* Add these to your global.css */
+/* -- Previous styles remain untouched -- */
+
+/* Compact Table Structure */
+.book-table {
+    display: grid;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    background: var(--surface);
+    margin: 1rem 0;
+  }
+  
+  .book-table-header {
+    display: grid;
+    grid-template-columns: 3fr 2fr 3fr 1fr 1fr;
+    gap: 1rem;
+    padding: 0.75rem 1rem;
+    background: rgba(255,255,255,0.03);
+    font-size: 0.85em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  
+  .book-table-row {
+    display: grid;
+    grid-template-columns: 3fr 2fr 3fr 1fr 1fr;
+    gap: 1rem;
+    padding: 0.75rem 1rem;
+    border-top: 1px solid var(--border);
+    font-size: 0.95em;
+  }
+  
+  /* Filter Section */
+  .filter-section {
+    margin: 1.5rem 0;
+  }
+  
+  .search-container {
+    margin-bottom: 1rem;
+  }
+  
+  .filter-row {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .filter-group {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: var(--surface);
+    padding: 0.5rem 0.75rem;
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+  }
+  .filter-group span {
+    white-space: nowrap;
+  }
+  
+  .filter-group select {
+    width: auto !important;
+    min-width: 100px;
+    padding: 0.25rem 0.5rem !important;
+  }
+  .year-inputs {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  
+  .year-input {
+    width: 8ch !important;
+    padding: 0.25rem 0.5rem !important;
+    text-align: center;
+  }
+  
+  .clear-button {
+    padding: 0 0.25rem;
+    background: none;
+    color: var(--text-secondary);
+    cursor: pointer;
+    transition: color 0.2s ease;
+  }
+  
+  .clear-button:hover {
+    color: var(--danger);
+  }
+  
+  .cultural-periods {
+    display: flex;
+    gap: 0.25rem;
+  }
+  
+  .period-button {
+    padding: 0.25rem 0.75rem;
+    font-size: 0.9em;
+  }
+  
+  /* Importance Colors */
+  .importance-dot.must-read { background-color: #ef4444; }
+  .importance-dot.context-needed { background-color: #f59e0b; }
+  .importance-dot.standalone { background-color: #10b981; }
+  .importance-dot.controversial { background-color: #3b82f6; }
+  /* Compact Filter Grid */
+  .controls-grid {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 1.5rem;
+    align-items: start;
+    margin: 1.5rem 0;
+  }
+  
+  .filters-group {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+  }
+  
+  /* Inline Form Elements */
+  .sort-filter, .range-filter {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+  }
+  
+  .sort-filter select, 
+  .range-filter input[type="number"] {
+    width: auto;
+    min-width: 120px;
+    padding: 0.5rem 0.75rem;
+  }
+  
+  .cultural-periods {
+    display: flex;
+    gap: 0.5rem;
+  }
+  
+  /* Compact Year Display */
+  .year-badge {
+    font-feature-settings: 'tnum';
+    font-variant-numeric: tabular-nums;
+    background: rgba(255,255,255,0.05);
+    padding: 0.25rem 0.5rem;
+    border-radius: 6px;
+    font-size: 0.9em;
+  }
+  .category-group {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    min-width: 0;
+  }
+  
+  .category-tag,
+  .subcategory-tag {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 200px;
+    transition: max-width 0.3s ease;
+  }
+  
+  
+  .arrow {
+    color: var(--text-secondary);
+    margin: 0 0.5rem;
+    opacity: 0.6;
+  }
+  /* Add to global.css */
+.book-table-row {
+    position: relative;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    max-height: 60px;
+    overflow: hidden;
+  }
+  
+  .book-table-row::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: var(--border);
+  }
+  
+  .book-table-row:hover {
+    max-height: 400px;
+    z-index: 2;
+    background: var(--surface);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+    transform: scale(1.02);
+    overflow: visible;
+  }
+  
+  .book-table-row:hover::after {
+    opacity: 0;
+  }
+
+  .book-table-row:hover .category-tag,
+.book-table-row:hover .subcategory-tag {
+  max-width: unset;
+  overflow: visible;
+}
+  
+.text-primary, 
+.text-secondary,
+.year-badge {
+  white-space: normal;
+  overflow-wrap: break-word;
+  line-height: 1.4;
+  padding: 0.5rem 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+  
+  .book-table-row:hover .text-primary,
+  .book-table-row:hover .text-secondary,
+  .book-table-row:hover .category-tag,
+  .book-table-row:hover .subcategory-tag,
+  .book-table-row:hover .year-badge {
+    -webkit-line-clamp: unset;
+    overflow: visible;
+  }
+  
+  .arrow {
+    margin: 0 0.3rem;
+  }
+  /* Add to global.css */
+.sort-toggle {
+    padding: 0.25rem 0.5rem !important;
+    width: 1.75rem;
+    height: 1.75rem;
+    font-size: 0.9em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none !important;
+    background: rgba(255,255,255,0.05) !important;
+    transition: var(--transition) !important;
+  }
+  
+  .sort-toggle:hover {
+    background: rgba(255,255,255,0.1) !important;
+    transform: none !important;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  }
+  
+  .sort-toggle:active {
+    transform: scale(0.95) !important;
+  }
+  /* Add to global.css */
+/* Add to global.css */
+/* Add to global.css */
+.custom-select {
+    position: relative;
+    min-width: 120px;
+  }
+  
+  .select-header {
+    padding: 0.5rem 1rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .select-options {
+    position: absolute;
+    width: 100%;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    margin-top: 0.25rem;
+    z-index: 1000;
+  }
+  
+  .option {
+    padding: 0.75rem 1rem;
+    cursor: pointer;
+    transition: background 0.2s ease;
+  }
+  
+  .option:hover {
+    background: rgba(255,255,255,0.05);
+  }
+  
+  .option.selected {
+    background: var(--primary);
+    color: white;
+  }
+  
+  .arrow {
+    font-size: 0.8em;
+    transition: transform 0.2s ease;
+  }
+  
+  .arrow.open {
+    transform: rotate(180deg);
+  }
+  /* Cultural period filter specific styles */
+.cultural-periods {
+    display: flex;
+    gap: 0.25rem;
+    flex-wrap: wrap;
+  }
+  
+  .period-button {
+    padding: 0.25rem 0.75rem;
+    font-size: 0.85em;
+    border-radius: 20px;
+    background: rgba(255,255,255,0.05);
+    border: 1px solid var(--border);
+    transition: all 0.2s ease;
+  }
+  
+  .period-button.active {
+    background: var(--primary);
+    border-color: var(--primary);
+    color: white;
+    box-shadow: 0 2px 8px rgba(124,58,237,0.3);
+  }
+  /* Add these styles to your global.css */
+
+/* Container for the entire app with fixed height */
+.home {
+    display: flex;
+    flex-direction: column;
+    height: 100vh; /* Full viewport height */
+    overflow: hidden; /* Prevent overall page scrolling */
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 1rem;
+  }
+  
+  /* Fixed elements at the top */
+  .fixed-header {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: var(--background);
+  }
+  
+  /* Scrollable book table container */
+  .book-table-container {
+    flex: 1;
+    overflow-y: auto;
+    margin: 0.5rem 0;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--surface);
+  }
+  
+  /* Fixed table header */
+  .book-table-header {
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    background: rgba(26, 26, 26, 0.95);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--border);
+  }
+  
+  /* Remove the border from table since container has it */
+  .book-table {
+    border: none;
+    margin: 0;
+    background: transparent;
+  }
+  
+  /* Adjust book table row hover styles */
+  .book-table-row:hover {
+    max-height: 400px;
+    z-index: 2;
+    background: var(--surface);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+    transform: scale(1.01); /* Slightly reduced scale to fit better */
+  }
+  
+  /* Optional pagination at bottom */
+  .pagination {
+    padding: 1rem 0;
+    position: sticky;
+    bottom: 0;
+    background: var(--background);
+    z-index: 10;
+  }

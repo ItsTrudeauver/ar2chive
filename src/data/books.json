@@ -1,0 +1,1343 @@
+[
+    {
+      "title": "The Gulag Archipelago",
+      "author": "Aleksandr Isayevich Solzhenitsyn",
+      "category": "Philosophy",
+      "subcategory": "Political Philosophy",
+      "year": 1973,
+      "importance": "controversial"
+    },
+    {
+      "title": "Ethics",
+      "author": "Baruch Spinoza",
+      "category": "Ethics",
+      "subcategory": "Moral Philosophy",
+      "year": 1677,
+      "importance": "must-read"
+    },
+    {
+      "title": "Principia Philosophiae Cartesianae",
+      "author": "Baruch Spinoza",
+      "category": "Philosophy",
+      "subcategory": "Cartesian Philosophy",
+      "year": 1663,
+      "importance": "context-needed"
+    },
+    {
+      "title": "Tractatus Theologico-Politicus",
+      "author": "Baruch Spinoza",
+      "category": "Political Philosophy",
+      "subcategory": "Philosophy of Religion",
+      "year": 1670,
+      "importance": "controversial"
+    },
+    {
+      "title": "Morality: An Introduction to Ethics",
+      "author": "Bernard Williams",
+      "category": "Ethics",
+      "subcategory": "Introduction",
+      "year": 1993,
+      "importance": "standalone"
+    },
+    {
+      "title": "Problems of the Self",
+      "author": "Bernard Williams",
+      "category": "Philosophy of Mind",
+      "subcategory": "Personal Identity",
+      "year": 1973,
+      "importance": "must-read"
+    },
+    {
+      "title": "Moral Luck",
+      "author": "Bernard Williams",
+      "category": "Ethics",
+      "subcategory": "Moral Psychology",
+      "year": 1981,
+      "importance": "must-read"
+    },
+    {
+      "title": "Ethics and the Limit of Philosophy",
+      "author": "Bernard Williams",
+      "category": "Ethics",
+      "subcategory": "Meta-Ethics",
+      "year": 1985,
+      "importance": "must-read"
+    },
+    {
+      "title": "Utilitarianism: For and Against",
+      "author": "Bernard Williams, J. J. C. Smart",
+      "category": "Ethics",
+      "subcategory": "Utilitarianism",
+      "year": 1973,
+      "importance": "context-needed"
+    },
+    {
+      "title": "Trò chuyện triết học",
+      "author": "Bùi Văn Nam Sơn",
+      "category": "Philosophy",
+      "subcategory": "General Introduction",
+      "importance": "standalone"
+    },
+    {
+      "title": "Persuasion and Rhetoric",
+      "author": "Carlo Raimondo Michelstädter",
+      "category": "Philosophy",
+      "subcategory": "Rhetoric",
+      "year": 1913,
+      "importance": "context-needed"
+    },
+    {
+      "title": "Reasoning and the Logic of Things",
+      "author": "Charles Sanders Peirce",
+      "category": "Logic",
+      "subcategory": "Pragmatism",
+      "year": 1898,
+      "importance": "must-read"
+    },
+    {
+      "title": "Deduction, Induction and Hypothesis",
+      "author": "Charles Sanders Peirce",
+      "category": "Logic",
+      "subcategory": "Scientific Method",
+      "year": 1878,
+      "importance": "must-read"
+    },
+    {
+      "title": "Peirce on Signs: Writings on Semiotic",
+      "author": "Charles Sanders Peirce",
+      "category": "Semiotics",
+      "subcategory": "Philosophy of Language",
+      "importance": "must-read"
+    },
+    {
+      "title": "Philosopher of the Heart",
+      "author": "Clare Carlisle",
+      "category": "Philosophy",
+      "subcategory": "Biography",
+      "year": 2019,
+      "importance": "context-needed"
+    },
+    {
+      "title": "Introducing Kierkegaard: A Graphic Guide",
+      "author": "Dave Robinson",
+      "category": "Philosophy",
+      "subcategory": "Introduction",
+      "year": 2003,
+      "importance": "standalone"
+    },
+    {
+      "title": "An Enquiry Concerning Human Understanding",
+      "author": "David Hume",
+      "category": "Epistemology",
+      "subcategory": "Empiricism",
+      "year": 1748,
+      "importance": "must-read"
+    },
+    {
+      "title": "A Treatise on Human Nature",
+      "author": "David Hume",
+      "category": "Epistemology",
+      "subcategory": "Empiricism",
+      "year": 1739,
+      "importance": "must-read"
+    },
+    {
+      "title": "Is Justified True Belief Knowledge?",
+      "author": "Edmund L. Gettier",
+      "category": "Epistemology",
+      "subcategory": "Theory of Knowledge",
+      "year": 1963,
+      "importance": "must-read"
+    },
+    {
+      "title": "Heaven and Hell",
+      "author": "Emanuel Swedenborg",
+      "category": "Philosophy of Religion",
+      "subcategory": "Mysticism",
+      "year": 1758,
+      "importance": "controversial"
+    },
+    {
+      "title": "Twilight of the Idols",
+      "author": "Friedrich Nietzsche",
+      "category": "Philosophy",
+      "subcategory": "Existentialism",
+      "year": 1889,
+      "importance": "must-read"
+    },
+    {
+      "title": "Human, All Too Human: A Book for Free Spirits",
+      "author": "Friedrich Nietzsche",
+      "category": "Philosophy",
+      "subcategory": "Moral Philosophy",
+      "year": 1878,
+      "importance": "must-read"
+    },
+    {
+      "title": "Thus Spoke Zarathustra",
+      "author": "Friedrich Nietzsche",
+      "category": "Philosophy",
+      "subcategory": "Existentialism",
+      "year": 1883,
+      "importance": "must-read"
+    },
+    {
+      "title": "Beyond Good and Evil",
+      "author": "Friedrich Nietzsche",
+      "category": "Ethics",
+      "subcategory": "Existentialism",
+      "year": 1886,
+      "importance": "must-read"
+    },
+    {
+      "title": "The Anti-Christ",
+      "author": "Friedrich Nietzsche",
+      "category": "Philosophy of Religion",
+      "subcategory": "Existentialism",
+      "year": 1888,
+      "importance": "controversial"
+    },
+    {
+      "title": "Erotism: Death and Sensuality",
+      "author": "Georges Bataille",
+      "category": "Aesthetics",
+      "subcategory": "Ethics",
+      "year": 1957,
+      "importance": "controversial"
+    },
+    {
+      "title": "The Methods of Ethics",
+      "author": "Henry Sidgwick",
+      "category": "Ethics",
+      "subcategory": "Utilitarianism",
+      "year": 1874,
+      "importance": "must-read"
+    },
+    {
+      "title": "Essays on Ethics and Methods",
+      "author": "Henry Sidgwick",
+      "category": "Ethics",
+      "subcategory": "Meta-Ethics",
+      "importance": "context-needed"
+    },
+    {
+      "title": "Critique of Judgement",
+      "author": "Immanuel Kant",
+      "category": "Aesthetics",
+      "subcategory": "Aesthetic Theory",
+      "year": 1790,
+      "importance": "must-read"
+    },
+    {
+      "title": "Groundwork of the Metaphysics of Morals",
+      "author": "Immanuel Kant",
+      "category": "Ethics",
+      "subcategory": "Deontology",
+      "year": 1785,
+      "importance": "must-read"
+    },
+    {
+      "title": "Critique of Pure Reason",
+      "author": "Immanuel Kant",
+      "category": "Epistemology",
+      "subcategory": "Transcendental Idealism",
+      "year": 1781,
+      "importance": "must-read"
+    },
+    {
+      "title": "Prolegomena to Any Future Metaphysics",
+      "author": "Immanuel Kant",
+      "category": "Metaphysics",
+      "subcategory": "Epistemology",
+      "year": 1783,
+      "importance": "must-read"
+    },
+    {
+      "title": "Toward Perpetual Peace and Other Writings on Politics, Peace, and History",
+      "author": "Immanuel Kant",
+      "category": "Political Philosophy",
+      "subcategory": "Political Theory",
+      "year": 1795,
+      "importance": "must-read"
+    },
+    {
+      "title": "Critique of Practical Reason",
+      "author": "Immanuel Kant",
+      "category": "Ethics",
+      "subcategory": "Deontology",
+      "year": 1788,
+      "importance": "must-read"
+    },
+    {
+      "title": "Religion Within the Boundaries of Mere Reason",
+      "author": "Immanuel Kant",
+      "category": "Philosophy of Religion",
+      "subcategory": "Ethics/Religion",
+      "year": 1793,
+      "importance": "context-needed"
+    },
+    {
+      "title": "Simulacra and Simulation",
+      "author": "Jean Baudrillard",
+      "category": "Postmodernism",
+      "subcategory": "Cultural Theory",
+      "year": 1981,
+      "importance": "controversial"
+    },
+    {
+      "title": "The System of Objects",
+      "author": "Jean Baudrillard",
+      "category": "Postmodernism",
+      "subcategory": "Cultural Theory",
+      "year": 1968,
+      "importance": "context-needed"
+    },
+    {
+      "title": "Nausea",
+      "author": "Jean Paul Satre",
+      "category": "Existentialism",
+      "subcategory": "Existentialist Fiction",
+      "year": 1938,
+      "importance": "must-read"
+    },
+    {
+      "title": "Critique of Dialectical Reason",
+      "author": "Jean-Paul Satre",
+      "category": "Political Philosophy",
+      "subcategory": "Existential Marxism",
+      "year": 1960,
+      "importance": "context-needed"
+    },
+    {
+      "title": "Concerning the Conception of the Science of Knowledge Generally",
+      "author": "Johann Gottlieb Fichte",
+      "category": "German Idealism",
+      "subcategory": "Epistemology",
+      "year": 1794,
+      "importance": "context-needed"
+    },
+    {
+      "title": "Foundations of Natural Rights",
+      "author": "Johann Gottlieb Fichte",
+      "category": "Political Philosophy",
+      "subcategory": "German Idealism",
+      "year": 1796,
+      "importance": "must-read"
+    },
+    {
+      "title": "An Attempt at a Critique of All Revelation",
+      "author": "Johann Gottlieb Fichte",
+      "category": "Philosophy of Religion",
+      "subcategory": "German Idealism",
+      "year": 1792,
+      "importance": "context-needed"
+    },
+    {
+      "title": "On Liberty",
+      "author": "John Stuart Mill",
+      "category": "Political Philosophy",
+      "subcategory": "Liberalism",
+      "year": 1859,
+      "importance": "must-read"
+    },
+    {
+      "title": "Thoughts on Death and Immortality",
+      "author": "Ludwig Feuerbach",
+      "category": "Philosophy of Religion",
+      "subcategory": "Atheism",
+      "year": 1830,
+      "importance": "controversial"
+    },
+    {
+      "title": "Theogonie from the Sources of Classical, Hebrew and Christian Antiquity",
+      "author": "Ludwig Feuerbach",
+      "category": "Philosophy of Religion",
+      "subcategory": "Mythology",
+      "year": 1857,
+      "importance": "context-needed"
+    },
+    {
+      "title": "The Essence of Christianity",
+      "author": "Ludwig Feuerbach",
+      "category": "Philosophy of Religion",
+      "subcategory": "Atheism",
+      "year": 1841,
+      "importance": "must-read"
+    },
+    {
+      "title": "Principles of the Philosophy of the Future",
+      "author": "Ludwig Feuerbach",
+      "category": "Philosophy",
+      "subcategory": "Materialism",
+      "year": 1843,
+      "importance": "context-needed"
+    },
+    {
+      "title": "Philosophical Investigations",
+      "author": "Ludwig Josef Johann Wittgenstein",
+      "category": "Philosophy of Language",
+      "subcategory": "Analytic Philosophy",
+      "year": 1953,
+      "importance": "must-read"
+    },
+    {
+      "title": "Tractatus Logico-Philosophicus",
+      "author": "Ludwig Josef Johann Wittgenstein",
+      "category": "Logic",
+      "subcategory": "Analytic Philosophy",
+      "year": 1921,
+      "importance": "must-read"
+    },
+    {
+      "title": "Kant on Mind-Dependence: Possible or Actual Experience?",
+      "author": "Markus Kohl",
+      "category": "Epistemology",
+      "subcategory": "Kantian Philosophy",
+      "importance": "context-needed"
+    },
+    {
+      "title": "Letter on Humanism",
+      "author": "Martin Heidegger",
+      "category": "Existentialism",
+      "subcategory": "Continental Philosophy",
+      "year": 1947,
+      "importance": "must-read"
+    },
+    {
+      "title": "Being and Time",
+      "author": "Martin Heidegger",
+      "category": "Existentialism",
+      "subcategory": "Phenomenology",
+      "year": 1927,
+      "importance": "must-read"
+    },
+    {
+      "title": "Introduction to Metaphysics",
+      "author": "Martin Heidegger",
+      "category": "Metaphysics",
+      "subcategory": "Continental Philosophy",
+      "year": 1953,
+      "importance": "must-read"
+    },
+    {
+      "title": "The Ego and Its Own",
+      "author": "Max Stirner",
+      "category": "Political Philosophy",
+      "subcategory": "Anarchism",
+      "year": 1844,
+      "importance": "controversial"
+    },
+    {
+      "title": "Coldness and Cruelty in the Time of Insurrection",
+      "author": "Metaspinoza",
+      "category": "Political Philosophy",
+      "subcategory": "Contemporary Issues",
+      "importance": "controversial"
+    },
+    {
+      "title": "Essence, Identity, and the Concept of Woman",
+      "author": "Natalie Stoljar",
+      "category": "Feminist Philosophy",
+      "subcategory": "Gender Studies",
+      "importance": "context-needed"
+    },
+    {
+      "title": "A Little History of Philosophy",
+      "author": "Nigel Warburton",
+      "category": "Philosophy",
+      "subcategory": "History of Philosophy",
+      "year": 2011,
+      "importance": "standalone"
+    },
+    {
+      "title": "Om det tragiske",
+      "author": "Peter W. Zapffe",
+      "category": "Aesthetics",
+      "subcategory": "Philosophy of Tragedy",
+      "year": 1941,
+      "importance": "context-needed"
+    },
+    {
+      "title": "Den logiske sandkasse. Elementær logikk for universitet og selvstudium",
+      "author": "Peter W. Zapffe",
+      "category": "Logic",
+      "subcategory": "Textbook",
+      "importance": "standalone"
+    },
+    {
+      "title": "Republic",
+      "author": "Plato",
+      "category": "Political Philosophy",
+      "subcategory": "Ancient Philosophy",
+      "year": -380,
+      "importance": "must-read"
+    },
+    {
+      "title": "Meno",
+      "author": "Plato",
+      "category": "Epistemology",
+      "subcategory": "Ancient Philosophy",
+      "year": -385,
+      "importance": "must-read"
+    },
+    {
+      "title": "Symposium",
+      "author": "Plato",
+      "category": "Philosophy of Love",
+      "subcategory": "Ancient Philosophy",
+      "year": -385,
+      "importance": "must-read"
+    },
+    {
+      "title": "On the Abolition of All Political Parties",
+      "author": "Simone Weil",
+      "category": "Political Philosophy",
+      "subcategory": "Political Theory",
+      "year": 1949,
+      "importance": "controversial"
+    },
+    {
+      "title": "The Iliad, or The Poem of Force",
+      "author": "Simone Weil",
+      "category": "Aesthetics",
+      "subcategory": "Philosophy of Violence",
+      "year": 1940,
+      "importance": "context-needed"
+    },
+    {
+      "title": "Less than Nothing: Hegel and the Shadows of Dialectical Materialism",
+      "author": "Slavoj Zizek",
+      "category": "Continental Philosophy",
+      "subcategory": "Hegelianism",
+      "year": 2012,
+      "importance": "controversial"
+    },
+    {
+      "title": "The Sublime Object of Ideology",
+      "author": "Slavoj Zizek",
+      "category": "Political Philosophy",
+      "subcategory": "Ideology Critique",
+      "year": 1989,
+      "importance": "must-read"
+    },
+    {
+      "title": "Living in the End Times",
+      "author": "Slavoj Zizek",
+      "category": "Political Philosophy",
+      "subcategory": "Cultural Criticism",
+      "year": 2010,
+      "importance": "controversial"
+    },
+    {
+      "title": "The Sickness Unto Death",
+      "author": "Soren Kierkegaard",
+      "category": "Existentialism",
+      "subcategory": "Christian Existentialism",
+      "year": 1849,
+      "importance": "must-read"
+    },
+    {
+      "title": "Philosophical Fragments",
+      "author": "Soren Kierkegaard",
+      "category": "Existentialism",
+      "subcategory": "Epistemology/Religion",
+      "year": 1844,
+      "importance": "must-read"
+    },
+    {
+      "title": "In the Space of Reasons",
+      "author": "Wilfrid Sellars",
+      "category": "Epistemology",
+      "subcategory": "Analytic Philosophy",
+      "importance": "must-read"
+    },
+    {
+      "title": "Pure Pragmatics and Possible Worlds",
+      "author": "Wilfrid Sellars",
+      "category": "Logic",
+      "subcategory": "Pragmatism",
+      "year": 1947,
+      "importance": "context-needed"
+    },
+    {
+      "title": "Empiricism and the Philosophy of Mind",
+      "author": "Wilfrid Sellars",
+      "category": "Epistemology",
+      "subcategory": "Analytic Philosophy",
+      "year": 1956,
+      "importance": "must-read"
+    },
+    {
+      "title": "Encyclopedia of the Philosophical Sciences",
+      "author": "Wilhelm Friedrich Hegel",
+      "category": "Metaphysics",
+      "subcategory": "German Idealism",
+      "year": 1817,
+      "importance": "must-read"
+    },
+    {
+      "title": "Science of Logic",
+      "author": "Wilhelm Friedrich Hegel",
+      "category": "Logic",
+      "subcategory": "German Idealism",
+      "year": 1812,
+      "importance": "must-read"
+    },
+    {
+      "title": "Lectures on the Philosophy of History",
+      "author": "Wilhelm Friedrich Hegel",
+      "category": "Philosophy of History",
+      "subcategory": "German Idealism",
+      "year": 1837,
+      "importance": "must-read"
+    },
+    {
+      "title": "Enquiry Concerning Political Justice",
+      "author": "William Godwin",
+      "category": "Political Philosophy",
+      "subcategory": "Anarchism",
+      "year": 1793,
+      "importance": "must-read"
+    },
+    {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "category": "Ethics",
+      "subcategory": "Stoicism",
+      "year": 180,
+      "importance": "standalone"
+    },
+    {
+      "title": "The Story of Philosophy",
+      "author": "Will Durant",
+      "category": "Philosophy",
+      "subcategory": "History of Philosophy",
+      "year": 1926,
+      "importance": "standalone"
+    },
+    {
+      "title": "A New History of Western Philosophy",
+      "author": "Anthony Kenny",
+      "category": "Philosophy",
+      "subcategory": "Comprehensive History",
+      "year": 2010,
+      "importance": "standalone"
+    },
+    {
+      "title": "Irrational Man: A Study in Existential Philosophy",
+      "author": "William Barrett",
+      "category": "Existentialism",
+      "subcategory": "Introduction",
+      "year": 1958,
+      "importance": "standalone"
+    },
+    {
+      "title": "Mind: A Brief Introduction",
+      "author": "John R. Searle",
+      "category": "Philosophy of Mind",
+      "subcategory": "Introduction",
+      "year": 2004,
+      "importance": "standalone"
+    },
+    {
+      "title": "Discourses",
+      "author": "Epictetus",
+      "category": "Ethics",
+      "subcategory": "Stoicism",
+      "year": 108,
+      "importance": "must-read"
+    },
+    {
+      "title": "Confessions",
+      "author": "St. Augustine",
+      "category": "Philosophy of Religion",
+      "subcategory": "Christian Philosophy",
+      "year": 400,
+      "importance": "must-read"
+    },
+    {
+      "title": "Pensées",
+      "author": "Blaise Pascal",
+      "category": "Philosophy of Religion",
+      "subcategory": "Christian Philosophy",
+      "year": 1669,
+      "importance": "must-read"
+    },
+    {
+      "title": "A Defense of Abortion",
+      "author": "Judith Jarvis Thomson",
+      "category": "Ethics",
+      "subcategory": "Bioethics",
+      "year": 1971,
+      "importance": "controversial"
+    },
+        {
+          "title": "The Revolution of 1936-1939 in Palestine: Background, Details, and Analysis",
+          "author": "Ghassan Kanafani",
+          "category": "History",
+          "subcategory": "Middle Eastern History",
+          "year": 1972,
+          "importance": "controversial"
+        },
+        {
+          "title": "On Palestine",
+          "author": "Ilané Papp and Noam Chomsky",
+          "category": "Political Science",
+          "subcategory": "Middle Eastern Studies",
+          "year": 2015,
+          "importance": "controversial"
+        },
+        {
+          "title": "Ten myths about Israel",
+          "author": "Ilané Papp",
+          "category": "Political Science",
+          "subcategory": "Middle Eastern Studies",
+          "year": 2017,
+          "importance": "controversial"
+        },
+        {
+          "title": "Oxford Bookworms Library Factfiles Level 3: Martin Luther King",
+          "author": "Alan C. McLean",
+          "category": "Education",
+          "subcategory": "Biography",
+          "year": 2008,
+          "importance": "standalone"
+        },
+        {
+          "title": "Discourse on Decadence",
+          "author": "Ango Sakaguchi",
+          "category": "Philosophy",
+          "subcategory": "Cultural Criticism",
+          "year": 1946,
+          "importance": "context-needed"
+        },
+        {
+          "title": "Everyday Stalinism",
+          "author": "Sheila Fitzpatrick",
+          "category": "History",
+          "subcategory": "Soviet History",
+          "year": 1999,
+          "importance": "must-read"
+        },
+        {
+          "title": "The Soviet Union and the Vietnam War",
+          "author": "Ilya Gaiduk",
+          "category": "History",
+          "subcategory": "Cold War Studies",
+          "year": 1996,
+          "importance": "context-needed"
+        },
+        {
+          "title": "A History of the Vietnamese",
+          "author": "Keith Weller Taylor",
+          "category": "History",
+          "subcategory": "Vietnamese History",
+          "year": 1983,
+          "importance": "must-read"
+        },
+        {
+          "title": "The Birth of Vietnam",
+          "author": "Keith Weller Taylor",
+          "category": "History",
+          "subcategory": "Vietnamese History",
+          "year": 1983,
+          "importance": "must-read"
+        },
+        {
+          "title": "Vietnam and the Chinese Model",
+          "author": "Alexander Woodside",
+          "category": "History",
+          "subcategory": "Sino-Vietnamese Relations",
+          "year": 1971,
+          "importance": "must-read"
+        },
+        {
+          "title": "Đại Nam Nhất Thống Chí",
+          "author": "Quốc sử quán triều Nguyễn",
+          "category": "History",
+          "subcategory": "Vietnamese Historical Records",
+          "year": 1882,
+          "importance": "must-read"
+        },
+        {
+          "title": "Dư Địa Chí",
+          "author": "Nguyễn Trãi",
+          "category": "History",
+          "subcategory": "Vietnamese Geography",
+          "year": 1435,
+          "importance": "must-read"
+        },
+        {
+          "title": "Lịch Sử Nội Chiến Việt Nam",
+          "author": "Tạ Chí Đại Trường",
+          "category": "History",
+          "subcategory": "Vietnamese Civil Wars",
+          "year": 1991,
+          "importance": "context-needed"
+        },
+        {
+          "title": "Việt Nam Sử Lược",
+          "author": "Trần Trọng Kim",
+          "category": "History",
+          "subcategory": "Vietnamese History",
+          "year": 1920,
+          "importance": "must-read"
+        },
+        {
+          "title": "Việt Sử Tiêu Án",
+          "author": "Ngô Sĩ Liên",
+          "category": "History",
+          "subcategory": "Vietnamese Annals",
+          "year": 1479,
+          "importance": "must-read"
+        },
+        {
+          "title": "Lịch Triều Tạp Kỷ",
+          "author": "Cao Lãng - Xiển Trai",
+          "category": "History",
+          "subcategory": "Vietnamese Chronicles",
+          "year": 1821,
+          "importance": "context-needed"
+        },
+        {
+          "title": "Đại Việt Sử Ký Tiền Biên",
+          "author": "Ngô Thì Sĩ, Ngô Thì Nhậm",
+          "category": "History",
+          "subcategory": "Vietnamese Historical Records",
+          "year": 1800,
+          "importance": "must-read"
+        },
+        {
+          "title": "Việt Kiệu Thư",
+          "author": "Lý Văn Phượng",
+          "category": "History",
+          "subcategory": "Vietnamese Historical Documents",
+          "year": 1479,
+          "importance": "must-read"
+        },
+        {
+          "title": "Về quan hệ sách phong, triều cống Minh - Đại Việt",
+          "author": "Nguyễn Thị Kiều Trang",
+          "category": "History",
+          "subcategory": "Sino-Vietnamese Relations",
+          "importance": "context-needed"
+        },
+        {
+          "title": "Đại Nam Thực Lục",
+          "author": "Quốc sử quán triều Nguyễn",
+          "category": "History",
+          "subcategory": "Vietnamese Chronicles",
+          "year": 1848,
+          "importance": "must-read"
+        },
+        {
+          "title": "Khâm Định Việt Sử Thông Giám Cương Mục",
+          "author": "Quốc sử quán triều Nguyễn",
+          "category": "History",
+          "subcategory": "Vietnamese Historical Records",
+          "year": 1859,
+          "importance": "must-read"
+        },
+        {
+          "title": "Quốc triều chính biên toát yếu",
+          "author": "Quốc sử quán triều Nguyễn",
+          "category": "History",
+          "subcategory": "Vietnamese Chronicles",
+          "year": 1884,
+          "importance": "must-read"
+        },
+        {
+          "title": "An Nam Chí Lược",
+          "author": "Lê Tắc",
+          "category": "History",
+          "subcategory": "Vietnamese History",
+          "year": 1335,
+          "importance": "must-read"
+        },
+        {
+          "title": "Histoire moderne du pays d’Annam",
+          "author": "Charles B. Maybon",
+          "category": "History",
+          "subcategory": "French Colonial Studies",
+          "year": 1920,
+          "importance": "context-needed"
+        },
+        {
+          "title": "Vietnam domination coloniale et résistance nationale",
+          "author": "Charles Fourniau",
+          "category": "History",
+          "subcategory": "French Colonial Studies",
+          "year": 1982,
+          "importance": "must-read"
+        },
+        {
+          "title": "Nguyễn Văn Tường và cuộc chiến chống đô hộ Pháp của Nhà Nguyễn",
+          "author": "Nguyễn Quốc Trị",
+          "category": "History",
+          "subcategory": "Vietnamese Resistance",
+          "importance": "must-read"
+        },
+        {
+          "title": "Comprehensive Reflections to Aid in Governance",
+          "author": "Sima Guang",
+          "category": "History",
+          "subcategory": "Chinese Political History",
+          "year": 1084,
+          "importance": "must-read"
+        },
+        {
+          "title": "Records of the Grand Historians",
+          "author": "Sima Qian",
+          "category": "History",
+          "subcategory": "Chinese Annals",
+          "year": -94,
+          "importance": "must-read"
+        },
+        {
+          "title": "Concise History of the Ming Dynasty",
+          "author": "John W. Dardress",
+          "category": "History",
+          "subcategory": "Chinese History",
+          "year": 2012,
+          "importance": "standalone"
+        },
+        {
+          "title": "Containing Nationalism",
+          "author": "Michael Hechter",
+          "category": "Political Science",
+          "subcategory": "Nationalism Studies",
+          "year": 2000,
+          "importance": "must-read"
+        },
+        {
+          "title": "Alien Rule",
+          "author": "Michael Hechter",
+          "category": "Political Science",
+          "subcategory": "Governance Studies",
+          "year": 2013,
+          "importance": "must-read"
+        },
+        {
+          "title": "Triumph Of The Will",
+          "author": "Leni Riefenstahl",
+          "category": "Film Studies",
+          "subcategory": "Propaganda",
+          "year": 1935,
+          "importance": "controversial"
+        },
+        {
+          "title": "The Story of Civilisation",
+          "author": "Will Durant",
+          "category": "History",
+          "subcategory": "Comprehensive History",
+          "year": 1935,
+          "importance": "standalone"
+        },
+        {
+          "title": "The Cambridge Ancient History",
+          "author": "Cambridge University Press",
+          "category": "History",
+          "subcategory": "Ancient History",
+          "importance": "must-read"
+        },
+        {
+          "title": "The Cambridge History of China",
+          "author": "Cambridge University Press",
+          "category": "History",
+          "subcategory": "Chinese History",
+          "importance": "must-read"
+        },
+        {
+          "title": "The New Cambridge History of Islam",
+          "author": "Cambridge University Press",
+          "category": "History",
+          "subcategory": "Islamic Studies",
+          "importance": "must-read"
+        },
+        {
+          "title": "The Cambridge History of The First World War",
+          "author": "Cambridge University Press",
+          "category": "History",
+          "subcategory": "World War I",
+          "importance": "must-read"
+        },
+        {
+          "title": "Triều Nguyễn và Lịch sử của chúng ta",
+          "author": "Nhiều tác giả",
+          "category": "History",
+          "subcategory": "Vietnamese History",
+          "importance": "context-needed"
+        },
+        {
+          "title": "Lôi Động, Tinh Phi - Khảo cứu về súng đạn người Việt",
+          "author": "Nguyễn Ngọc Phương Đông - Cao Việt Nguyễn",
+          "category": "History",
+          "subcategory": "Military Technology",
+          "importance": "context-needed"
+        },
+        {
+          "title": "Lê Quý Dật Sử",
+          "author": "Bùi Dương Lịch",
+          "category": "History",
+          "subcategory": "Vietnamese Chronicles",
+          "year": 1787,
+          "importance": "must-read"
+        },
+        {
+          "title": "Đại Việt Thông Sử",
+          "author": "Lê Quý Đôn",
+          "category": "History",
+          "subcategory": "Vietnamese Annals",
+          "year": 1749,
+          "importance": "must-read"
+        },
+        {
+          "title": "Phong Trào Kháng Thuế Ở Miền Trung Qua Các Châu Bản Triều Duy Tân",
+          "author": "Nguyễn Thế Anh",
+          "category": "History",
+          "subcategory": "Vietnamese Socioeconomic History",
+          "importance": "must-read"
+        },
+        {
+          "title": "Phương Pháp Sử Học: Những Nguyên Tắc Căn Bản",
+          "author": "Nguyễn Thế Anh",
+          "category": "History",
+          "subcategory": "Historiography",
+          "importance": "must-read"
+        },
+        {
+          "title": "Việt Nam Thời Pháp Đô Hộ",
+          "author": "Nguyễn Thế Anh",
+          "category": "History",
+          "subcategory": "French Colonial Era",
+          "year": 1970,
+          "importance": "must-read"
+        },
+        {
+          "title": "Kinh tế và xã hội Việt Nam dưới triều các vua Nguyễn",
+          "author": "Nguyễn Thế Anh",
+          "category": "History",
+          "subcategory": "Vietnamese Socioeconomic History",
+          "importance": "must-read"
+        },
+        {
+          "title": "Phủ Biên Tạp Lục",
+          "author": "Lê Quý Đôn",
+          "category": "History",
+          "subcategory": "Vietnamese Chronicles",
+          "year": 1776,
+          "importance": "must-read"
+        },
+        {
+          "title": "Russia Primary Chronicle",
+          "author": "Nestor the Hagiographer",
+          "category": "History",
+          "subcategory": "Medieval History",
+          "year": 1113,
+          "importance": "must-read"
+        },
+        {
+          "title": "Tập San Sử Địa",
+          "author": "Nhiều tác giả",
+          "category": "History",
+          "subcategory": "Historical Research",
+          "importance": "context-needed"
+        },
+        {
+          "title": "Histoire de la pensée chinoise",
+          "author": "Anne Cheng",
+          "category": "Philosophy",
+          "subcategory": "Chinese Philosophy",
+          "year": 1997,
+          "importance": "must-read"
+        },
+        {
+          "title": "The Holocaust Industry",
+          "author": "Norman Finkelstein",
+          "category": "History",
+          "subcategory": "Holocaust Studies",
+          "year": 2000,
+          "importance": "controversial"
+        },
+            {
+              "title": "No Longer Human",
+              "author": "Osamu Dazai",
+              "category": "Literature",
+              "subcategory": "Autobiographical Fiction",
+              "year": 1948,
+              "importance": "must-read"
+            },
+            {
+              "title": "Schoolgirl",
+              "author": "Osamu Dazai",
+              "category": "Literature",
+              "subcategory": "Novella",
+              "year": 1939,
+              "importance": "context-needed"
+            },
+            {
+              "title": "Blood Meridian",
+              "author": "Cormac McCarthy",
+              "category": "Literature",
+              "subcategory": "Western Fiction",
+              "year": 1985,
+              "importance": "must-read"
+            },
+            {
+              "title": "House of Leaves",
+              "author": "Mark Z. Danielewski",
+              "category": "Literature",
+              "subcategory": "Experimental Fiction",
+              "year": 2000,
+              "importance": "controversial"
+            },
+            {
+              "title": "The Fountainhead",
+              "author": "Ayn Rand",
+              "category": "Literature",
+              "subcategory": "Philosophical Fiction",
+              "year": 1943,
+              "importance": "controversial"
+            },
+            {
+              "title": "The Tenant of Wildfell Hall",
+              "author": "Anne Brontë",
+              "category": "Literature",
+              "subcategory": "Gothic Fiction",
+              "year": 1848,
+              "importance": "must-read"
+            },
+            {
+              "title": "1984",
+              "author": "George Orwell",
+              "category": "Literature",
+              "subcategory": "Dystopian Fiction",
+              "year": 1949,
+              "importance": "must-read"
+            },
+            {
+              "title": "Animal Farm",
+              "author": "George Orwell",
+              "category": "Literature",
+              "subcategory": "Political Satire",
+              "year": 1945,
+              "importance": "must-read"
+            },
+            {
+              "title": "Nadja",
+              "author": "André Breton",
+              "category": "Literature",
+              "subcategory": "Surrealist Fiction",
+              "year": 1928,
+              "importance": "context-needed"
+            },
+            {
+              "title": "Kafka on the Shore",
+              "author": "Haruki Murakami",
+              "category": "Literature",
+              "subcategory": "Magical Realism",
+              "year": 2002,
+              "importance": "standalone"
+            },
+            {
+              "title": "Will You Please Be Quiet, Please?",
+              "author": "Raymond Carver",
+              "category": "Literature",
+              "subcategory": "Short Stories",
+              "year": 1976,
+              "importance": "context-needed"
+            },
+            {
+              "title": "銀河鉄道の夜 (Night on the Galactic Railroad)",
+              "author": "Kenji Miyazawa",
+              "category": "Literature",
+              "subcategory": "Science Fiction",
+              "year": 1934,
+              "importance": "must-read"
+            },
+            {
+              "title": "星の子 (Child of the Stars)",
+              "author": "Hoshi Shinichi",
+              "category": "Literature",
+              "subcategory": "Short Stories",
+              "year": 1961,
+              "importance": "standalone"
+            },
+            {
+              "title": "The Invention of Solitude",
+              "author": "Paul Auster",
+              "category": "Literature",
+              "subcategory": "Memoir",
+              "year": 1982,
+              "importance": "context-needed"
+            },
+            {
+              "title": "Bí mật hồ cá thần",
+              "author": "Nguyễn Đình Tú",
+              "category": "Literature",
+              "subcategory": "Fantasy",
+              "year": 2017,
+              "importance": "standalone"
+            },
+            {
+              "title": "The Immoralist",
+              "author": "André Gide",
+              "category": "Literature",
+              "subcategory": "Philosophical Fiction",
+              "year": 1902,
+              "importance": "must-read"
+            },
+            {
+              "title": "The Happy Prince and Other Tales",
+              "author": "Oscar Wilde",
+              "category": "Literature",
+              "subcategory": "Children's Literature",
+              "year": 1888,
+              "importance": "standalone"
+            },
+            {
+              "title": "Antigone, Oedipus the King and Electra",
+              "author": "Sophocles",
+              "category": "Literature",
+              "subcategory": "Drama",
+              "year": -441,
+              "importance": "must-read"
+            },
+            {
+              "title": "The Metamorphosis",
+              "author": "Franz Kafka",
+              "category": "Literature",
+              "subcategory": "Absurdist Fiction",
+              "year": 1915,
+              "importance": "must-read"
+            },
+            {
+              "title": "The Bell Jar",
+              "author": "Sylvia Plath",
+              "category": "Literature",
+              "subcategory": "Autobiographical Fiction",
+              "year": 1963,
+              "importance": "must-read"
+            },
+            {
+              "title": "The Diary of Anne Frank",
+              "author": "Anne Frank",
+              "category": "Literature",
+              "subcategory": "Autobiography",
+              "year": 1947,
+              "importance": "must-read"
+            },
+            {
+              "title": "The Little Prince",
+              "author": "Antoine de Saint-Exupéry",
+              "category": "Literature",
+              "subcategory": "Philosophical Fiction",
+              "year": 1943,
+              "importance": "must-read"
+            },
+            {
+              "title": "Faust",
+              "author": "Johann Wolfgang von Goethe",
+              "category": "Literature",
+              "subcategory": "Tragedy",
+              "year": 1808,
+              "importance": "must-read"
+            },
+            {
+              "title": "And Then There Were None",
+              "author": "Agatha Christie",
+              "category": "Literature",
+              "subcategory": "Mystery",
+              "year": 1939,
+              "importance": "standalone"
+            },
+            {
+              "title": "The Stranger",
+              "author": "Albert Camus",
+              "category": "Literature",
+              "subcategory": "Absurdist Fiction",
+              "year": 1942,
+              "importance": "must-read"
+            },
+            {
+              "title": "The Sailor Who Fell From Grace With The Sea",
+              "author": "Yukio Mishima",
+              "category": "Literature",
+              "subcategory": "Psychological Fiction",
+              "year": 1963,
+              "importance": "context-needed"
+            },
+            {
+              "title": "Confessions of a Mask",
+              "author": "Yukio Mishima",
+              "category": "Literature",
+              "subcategory": "Autobiographical Fiction",
+              "year": 1949,
+              "importance": "context-needed"
+            },
+            {
+              "title": "Pale Fire",
+              "author": "Vladimir Nabokov",
+              "category": "Literature",
+              "subcategory": "Postmodern Fiction",
+              "year": 1962,
+              "importance": "must-read"
+            },
+            {
+              "title": "The Sorrows of Young Werther",
+              "author": "Johann Wolfgang von Goethe",
+              "category": "Literature",
+              "subcategory": "Epistolary Novel",
+              "year": 1774,
+              "importance": "must-read"
+            },
+            {
+              "title": "Demian",
+              "author": "Hermann Hesse",
+              "category": "Literature",
+              "subcategory": "Bildungsroman",
+              "year": 1919,
+              "importance": "context-needed"
+            },
+            {
+              "title": "Steppenwolf",
+              "author": "Hermann Hesse",
+              "category": "Literature",
+              "subcategory": "Philosophical Fiction",
+              "year": 1927,
+              "importance": "must-read"
+            },
+            {
+              "title": "Things Fall Apart",
+              "author": "Chinua Achebe",
+              "category": "Literature",
+              "subcategory": "Historical Fiction",
+              "year": 1958,
+              "importance": "must-read"
+            },
+            {
+              "title": "Do Androids Dream of Electric Sheep?",
+              "author": "Philip K. Dick",
+              "category": "Literature",
+              "subcategory": "Science Fiction",
+              "year": 1968,
+              "importance": "context-needed"
+            },
+            {
+              "title": "Discipline and Punish",
+              "author": "Michel Foucault",
+              "category": "Philosophy",
+              "subcategory": "Critical Theory",
+              "year": 1975,
+              "importance": "must-read"
+            },
+            {
+              "title": "The Second Sex",
+              "author": "Simone de Beauvoir",
+              "category": "Philosophy",
+              "subcategory": "Feminist Theory",
+              "year": 1949,
+              "importance": "must-read"
+            }
+          
+      ]
